@@ -1,5 +1,5 @@
 Station Code,Location,Altitude (m),Cutoff Rigidity (GV),Latitude (°),Longitude (°)
-AATB,"Alma-Ata, Kazakhstan",3340,6.69,43.25,76.92
+AATB,"Alma-Ata, Kazakhstan",3340,5.9,43.25,76.92
 APTY,"Apatity, Russia",177,0.65,67.57,33.4
 BKSN,"Baksan Valley, Russia",1700,5.6,43.28,42.7
 BRBG,"Barrow, Alaska, USA",8,0.17,71.29,-156.76
@@ -22,8 +22,8 @@ MRNY,"Mirny, Antarctica",30,0.03,-66.55,93.01
 MWSB,"Mawson Base, Antarctica",16,0.22,-67.6,62.87
 MWSN,"Mawson Station, Antarctica",16,0.22,-67.6,62.87
 MXCO,"Mexico City, Mexico",2277,8.2,19.43,-99.13
-NAIN,"Nain, Canada",7,0.3,56.54,-61.69
-NANM,"Nain, Canada",7,0.3,56.54,-61.69
+NAIN,"Nain, Canada",46,0.3,56.54,-61.69
+NANM,"Nain, Canada",46,0.3,56.54,-61.69
 NEWK,"Newark, Delaware, USA",30,2.4,39.68,-75.75
 NRLK,"Norilsk, Russia",90,0.6,69.34,88.2
 NVBK,"Novosibirsk, Russia",150,2.1,55.03,82.92
@@ -31,10 +31,10 @@ OULU,"Oulu, Finland",15,0.81,65.01,25.47
 PSNM,"Peawanuck, Canada",52,0.3,54.98,-85.43
 PWNK,"Peawanuck, Canada",52,0.3,54.98,-85.43
 ROME,"Rome, Italy",60,6.32,41.9,12.5
-SNAE,"Sanae, Antarctica",52,0.56,-71.67,-2.85
-SOPB,"South Pole, Antarctica",2835,0.0,-90.0,0.0
+SNAE,"Sanae, Antarctica",52,0.73,-71.67,-2.85
+SOPB,"South Pole, Antarctica",2835,0.01,-90.0,0.0
 SOPO,"South Pole, Antarctica",2835,0.1,-90.0,0.0
-TERA,"Terre Adélie, Antarctica",33,0.0,-66.67,140.0
+TERA,"Terre Adélie, Antarctica",33,<0.01,-66.67,140.0
 THUL,"Thule, Greenland",26,0.0,76.53,-68.7
 TXBY,"Tixie Bay, Russia",10,0.5,71.63,128.87
 YKTK,"Yakutsk, Russia",130,1.65,62.03,129.73
